@@ -1,0 +1,22 @@
+{
+  "name": "playwright5thand6thgroup2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nkosikk/playwright5thAnd6thGroup2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nkosikk/playwright5thAnd6thGroup2026/issues"
+  },
+  "homepage": "https://github.com/Nkosikk/playwright5thAnd6thGroup2026#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
