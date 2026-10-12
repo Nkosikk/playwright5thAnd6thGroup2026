@@ -19,4 +19,8 @@ export class BasePage {
     await expect(locator).toBeVisible();
   }
 
+  async GetTextValue(locator: Locator) {
+    return await locator.textContent();
+  }
+
 }
