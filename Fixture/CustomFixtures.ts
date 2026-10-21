@@ -28,4 +28,5 @@ export const test = base.extend<CustomFixtures>({
 
     
 });
+test.use({ storageState: 'playright/.auth/user.json' });
 
