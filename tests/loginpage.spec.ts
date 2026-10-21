@@ -9,7 +9,6 @@ test.describe('Login Page Tests', () => {
      await homePage.navigateToLoginPage();
      await loginPage.userLogin(validUser.student.username, validUser.student.password);
      await loginPage.verifyDashboardUrl();
-     await dashboardPage.ClickMenu();
     });
     
 });

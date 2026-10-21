@@ -16,3 +16,6 @@ export const validUser = {
         password: 'password123'
     }
 }
+export const userProfile = {
+    gitUsername: 'MyGitUsername'
+}   

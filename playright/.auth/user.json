@@ -1,0 +1,38 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://ndosisimplifiedautomation.vercel.app",
+      "localStorage": [
+        {
+          "name": "ndosi_session_id",
+          "value": "e0424e20-a7f6-4829-b884-fb4432e82222"
+        },
+        {
+          "name": "lastActivityAt",
+          "value": "1792602016129"
+        },
+        {
+          "name": "userLastName",
+          "value": "Nog"
+        },
+        {
+          "name": "userEmail",
+          "value": "aveetestuser@gmail.com"
+        },
+        {
+          "name": "authToken",
+          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiI2NTFmYTA5Ni1mNmE5LTQ3ZDYtYjVkMi0xMGIzZGYwODU4Y2YiLCJlbWFpbCI6ImF2ZWV0ZXN0dXNlckBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsInNlc3Npb25JZCI6IjdjMGE1OGFjLTRhNjYtNGJiYy05NWVkLTc0NzA2OTY1ZmU1ZCIsImlhdCI6MTc5MjYwMjAxNiwiZXhwIjoxNzkyNjg4NDE2fQ.9PRFUPfTnlfj5EjfnDmICpGkWZBrjkIPMfMH8pXHrtQ"
+        },
+        {
+          "name": "user",
+          "value": "{\"id\":\"651fa096-f6a9-47d6-b5d2-10b3df0858cf\",\"firstName\":\"Avee\",\"lastName\":\"Nog\",\"email\":\"aveetestuser@gmail.com\",\"role\":\"user\",\"groupId\":\"b0664443-c8a4-4a36-a87c-6ac33c6058bc\",\"groupName\":\"Group T\",\"approvalStatus\":\"approved\",\"createdAt\":\"2026-05-01 10:10:35\",\"updatedAt\":\"2026-10-21 18:59:40\"}"
+        },
+        {
+          "name": "userFirstName",
+          "value": "Avee"
+        }
+      ]
+    }
+  ]
+}
