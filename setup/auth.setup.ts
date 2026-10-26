@@ -3,7 +3,7 @@ import { HomePage } from '../Pages/HomePage';
 import { validUser } from '../TestData/TestData';
 import { LoginPage } from '../Pages/LoginPage';
 
-const authFile = 'playwright/.auth/user.json';
+const authFile = 'playright/.auth/user.json';
 
 setup('authenticate', async ({ page }) => {
 

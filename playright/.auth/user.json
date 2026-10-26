@@ -6,11 +6,11 @@
       "localStorage": [
         {
           "name": "ndosi_session_id",
-          "value": "64540e61-220c-41cb-b350-e3c349822d55"
+          "value": "be8943e9-a040-4e33-bf7b-8d8bed166fde"
         },
         {
           "name": "lastActivityAt",
-          "value": "1792602435509"
+          "value": "1793033672111"
         },
         {
           "name": "userLastName",
@@ -22,11 +22,11 @@
         },
         {
           "name": "authToken",
-          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiI2NTFmYTA5Ni1mNmE5LTQ3ZDYtYjVkMi0xMGIzZGYwODU4Y2YiLCJlbWFpbCI6ImF2ZWV0ZXN0dXNlckBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsInNlc3Npb25JZCI6IjNjNThmOTM2LTdkZWUtNGUxNS05NDViLTJjMGNjOTQyYmNiMiIsImlhdCI6MTc5MjYwMjQzNSwiZXhwIjoxNzkyNjg4ODM1fQ.JyNafbdyf6fcCsp-YLgSt4pOnPeFeIyD0mf_MLVZuxs"
+          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiI2NTFmYTA5Ni1mNmE5LTQ3ZDYtYjVkMi0xMGIzZGYwODU4Y2YiLCJlbWFpbCI6ImF2ZWV0ZXN0dXNlckBnbWFpbC5jb20iLCJyb2xlIjoidXNlciIsInNlc3Npb25JZCI6ImQzNTk1MWFiLTliYzQtNDE0OS1iM2Q3LTRkODcxNzc0ZjViOSIsImlhdCI6MTc5MzAzMzY3MiwiZXhwIjoxNzkzMTIwMDcyfQ.gaulqaf9daEiAubVDZ6zl7c1o7sdP27mrqK9pHB9TSY"
         },
         {
           "name": "user",
-          "value": "{\"id\":\"651fa096-f6a9-47d6-b5d2-10b3df0858cf\",\"firstName\":\"Avee\",\"lastName\":\"Nog\",\"email\":\"aveetestuser@gmail.com\",\"role\":\"user\",\"groupId\":\"b0664443-c8a4-4a36-a87c-6ac33c6058bc\",\"groupName\":\"Group T\",\"approvalStatus\":\"approved\",\"createdAt\":\"2026-05-01 10:10:35\",\"updatedAt\":\"2026-10-21 19:05:39\"}"
+          "value": "{\"id\":\"651fa096-f6a9-47d6-b5d2-10b3df0858cf\",\"firstName\":\"Avee\",\"lastName\":\"Nog\",\"email\":\"aveetestuser@gmail.com\",\"role\":\"user\",\"groupId\":\"b0664443-c8a4-4a36-a87c-6ac33c6058bc\",\"groupName\":\"Group T\",\"approvalStatus\":\"approved\",\"createdAt\":\"2026-05-01 10:10:35\",\"updatedAt\":\"2026-10-26 18:53:16\"}"
         },
         {
           "name": "userFirstName",

@@ -6,11 +6,11 @@ import { MyProfilePage } from '../Pages/MyProfilePage';
 
 
 test.describe('My Profile', () => {
-    test('Update my git username', async ({ loginPage, homePage, dashboardPage, myProfilePage }) => {
+    test('Update my git username', async ({ loginPage, homePage, dashboardPage, myProfilePage,page }) => {
      await loginPage.openNdosiPage();
-     await homePage.navigateToLoginPage();
-     await loginPage.userLogin(validUser.student.username, validUser.student.password);
-     await loginPage.verifyDashboardUrl();
+     
+     await page.waitForTimeout(5000);
+
      await dashboardPage.ClickMenu();
      await dashboardPage.ClickMyProfile();
      await myProfilePage.updateMyProfile(userProfile.gitUsername);
