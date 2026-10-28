@@ -2,14 +2,20 @@ import { HomePage } from '../Pages/HomePage';
 import { test as base } from '@playwright/test';
 import { LoginPage } from '../Pages/LoginPage';
 import { DashboardPage } from '../Pages/DashboardPage';
+<<<<<<< HEAD
+=======
 import { MyProfilePage } from '../Pages/MyProfilePage';
+>>>>>>> origin/main
 
 
 type CustomFixtures = {
     homePage: HomePage;
     loginPage: LoginPage;
     dashboardPage: DashboardPage;
+<<<<<<< HEAD
+=======
     myProfilePage: MyProfilePage;
+>>>>>>> origin/main
 }
 
 export const test = base.extend<CustomFixtures>({
@@ -21,12 +27,18 @@ export const test = base.extend<CustomFixtures>({
     },
     dashboardPage: async ({ page }, use) => {
         await use(new DashboardPage(page));
+<<<<<<< HEAD
+=======
     },
     myProfilePage: async ({ page }, use) => {
         await use(new MyProfilePage(page));
+>>>>>>> origin/main
     }
 
     
 });
+<<<<<<< HEAD
+=======
 test.use({ storageState: 'playright/.auth/user.json' });
+>>>>>>> origin/main
 

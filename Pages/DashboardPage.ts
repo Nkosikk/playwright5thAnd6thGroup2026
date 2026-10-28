@@ -8,7 +8,10 @@ export class DashboardPage extends BasePage {
         await this.ClickElement(this.page.getByRole('button', { name: 'Menu' }));
 
     }
+<<<<<<< HEAD
+=======
     async ClickMyProfile() {
         await this.ClickElement(this.page.locator('xpath=//span[contains(.,"My Profile")]'));
     }
+>>>>>>> origin/main
 }
