@@ -13,6 +13,7 @@ test.describe('My Profile', () => {
 
      await dashboardPage.ClickMenu();
      await dashboardPage.ClickMyProfile();
+     await page.waitForTimeout(5000);
      await myProfilePage.updateMyProfile(userProfile.gitUsername);
     });
     
